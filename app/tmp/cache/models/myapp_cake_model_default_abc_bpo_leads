@@ -1,0 +1,20 @@
+1551005817
+a:13:{s:2:"id";a:5:{s:4:"type";s:7:"integer";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:11;s:3:"key";s:7:"primary";}s:18:"bpo_lead_master_id";a:5:{s:4:"type";s:7:"integer";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:11;s:3:"key";s:5:"index";}s:9:"lead_type";a:6:{s:4:"type";s:7:"integer";s:4:"null";b:1;s:7:"default";N;s:6:"length";i:2;s:3:"key";s:5:"index";s:7:"comment";s:249:"1. Payment Success
+2. Payment Failure
+3. Payment Pending
+4. Shopping Cart drop-out
+5. Let Us Call You form
+6. Bought 1 Product
+7. Basic members above 15+ lacs Salary
+8. Application exhausted(10+ lacs salary)
+9. Basic members above 10+ lacs Salary
+
+
+";}s:6:"source";a:6:{s:4:"type";s:6:"string";s:4:"null";b:1;s:7:"default";N;s:6:"length";i:100;s:7:"collate";s:17:"latin1_swedish_ci";s:7:"charset";s:6:"latin1";}s:15:"op_promotion_id";a:5:{s:4:"type";s:7:"integer";s:4:"null";b:1;s:7:"default";N;s:6:"length";i:6;s:3:"key";s:5:"index";}s:13:"product_group";a:6:{s:4:"type";s:6:"string";s:4:"null";b:1;s:7:"default";N;s:6:"length";i:200;s:7:"collate";s:17:"latin1_swedish_ci";s:7:"charset";s:6:"latin1";}s:6:"status";a:6:{s:4:"type";s:7:"integer";s:4:"null";b:1;s:7:"default";N;s:6:"length";i:2;s:3:"key";s:5:"index";s:7:"comment";s:339:"A lead might have one of 6 statuses:
+1 New - Lead yet to be assigned / contacted.
+2 No Contact – Tried but no contact happened, to be called again after a specified time
+3 Follow up – Shows interest. Needs time to think.
+4 Callback – Candidate asked for callback as was busy
+5 Closed – Not interested
+6 Converted – Makes Payment
+";}s:7:"created";a:4:{s:4:"type";s:8:"datetime";s:4:"null";b:1;s:7:"default";N;s:6:"length";N;}s:8:"modified";a:4:{s:4:"type";s:8:"datetime";s:4:"null";b:1;s:7:"default";N;s:6:"length";N;}s:17:"followup_datetime";a:4:{s:4:"type";s:8:"datetime";s:4:"null";b:1;s:7:"default";N;s:6:"length";N;}s:10:"created_by";a:6:{s:4:"type";s:6:"string";s:4:"null";b:1;s:7:"default";N;s:6:"length";i:100;s:7:"collate";s:17:"latin1_swedish_ci";s:7:"charset";s:6:"latin1";}s:11:"modified_by";a:6:{s:4:"type";s:6:"string";s:4:"null";b:1;s:7:"default";N;s:6:"length";i:100;s:7:"collate";s:17:"latin1_swedish_ci";s:7:"charset";s:6:"latin1";}s:8:"prospect";a:4:{s:4:"type";s:7:"boolean";s:4:"null";b:1;s:7:"default";N;s:6:"length";i:1;}}
